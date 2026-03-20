@@ -87,7 +87,8 @@ Download historical adjusted closing prices for all 10 assets and save clean dat
 
 #### Step 1 — Define your tickers and date range
 - Create a Python list of all 10 tickers
-- Set a start date (e.g., `2019-01-01`) and end date (e.g., `2024-12-31`) — 5 years of daily data is standard
+- Set a start date (e.g., `2019-01-01`) and end date (e.g., `2024-12-31`) — 5 years of daily data is standard but 3-4 months is enough for this specific purpose
+
 
 #### Step 2 — Download data using `yfinance`
 - Use `yf.download()` with `auto_adjust=True` to get adjusted prices
