@@ -1,4 +1,4 @@
-yfinance -> To download the stock data
+yfinance 
 pandas
 numpy
 matplotlib
