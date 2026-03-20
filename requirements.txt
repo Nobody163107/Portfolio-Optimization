@@ -1,0 +1,10 @@
+yfinance -> To download the stock data
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+cvxpy
+PyPortfolioOpt
+plotly
+jupyterlab
